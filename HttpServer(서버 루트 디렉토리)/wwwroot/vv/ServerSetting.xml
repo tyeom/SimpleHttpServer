@@ -1,0 +1,1 @@
+<ServerSetting><Base><DefaultRootDirectory>C:\HttpServer\wwwroot</DefaultRootDirectory><DefaultPort>8080</DefaultPort></Base><Document><DefaultDocument>Index.html</DefaultDocument></Document><Etc><Etc1>aaa</Etc1><Etc2>bbb</Etc2></Etc></ServerSetting>
